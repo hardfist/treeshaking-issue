@@ -9,7 +9,7 @@ if (isBrowser) {
 }
 
 if (isNative) {
-  console.log('native');
+  console.log('native', native);
 } else {
   console.log('nothing again');
 }
