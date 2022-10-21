@@ -1,4 +1,5 @@
 import { isBrowser } from './browser.js';
+import { answer } from './answer.js';
 const isNative = false;
 import { sdk } from './sdk.js';
 import { native } from './native.js';
